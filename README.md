@@ -7,9 +7,13 @@ This app can be used to predict the price of diamonds with respect to carats and
 
 ## How to use
 -To lauch this app write the foolowing command in r/Rstudio console.
+
+```{r}
 install.packages("shiny")
 library("shiny")
 runGitHub('Shiny-application-','ketki17489')
+```
+
 -select carat and cut desired from left side pannel of the app.
 -press Submit button.
 

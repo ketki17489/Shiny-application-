@@ -6,7 +6,7 @@ An app is created in Shiny package of R, to predict diamond price
 This app can be used to predict the price of diamonds with respect to carats and cut type of the diamonds. The diamond dataset from ggplot2 package is used here to develope two models models, which predicts the price.
 
 ## How to use
--To lauch this app write the foolowing command in r/Rstudio console.
+-To lauch this app write the following command in r/Rstudio console.
 
 ```{r}
 install.packages("shiny")
